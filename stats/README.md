@@ -71,8 +71,9 @@ hanip-stats-web/
    `탐색 → 자유 형식`에서 **행=날짜, 값=활성 사용자·조회수**로 일별 표를, **행=세션 기본 채널 그룹**으로 유입,
    **행=페이지 경로 및 화면 클래스**로 인기 페이지를 읽습니다. 기간은 사이트 오픈일(2026-11-21)부터 오늘까지.
 3. `data/stats.json`의 `site.daily`·`site.trafficSources`·`site.topPages`·`site.visitors`·`site.pageviews`와
-   `summary.websiteVisitors`·`pageviews`, `updatedAt`/`updatedAtLabel`·`checkedAt`을 갱신합니다.
-4. `work/hanip-stats-web/`에서 로컬 확인 후 `work/jeongsihanip-repo/stats/`로 복사(README의 robots meta는 repo 쪽이 더 엄격함) → `stats/`만 커밋 → `git pull --rebase jeongsihanip main` → `git push jeongsihanip main`.
+   `summary.websiteVisitors`·`pageviews`·`websitePeriodLabel`(`11/21~11/26` 형식), `updatedAt`/`updatedAtLabel`·`checkedAt`을 갱신합니다.
+   화면의 KPI 부제·GA4 섹션 태그·업데이트 시각은 모두 이 파일에서 읽어 붙이므로 HTML·JS를 고칠 필요가 없습니다.
+4. `work/hanip-stats-web/`에서 로컬 확인 후 `work/jeongsihanip-repo/stats/`로 복사(로컬·배포본 모두 `robots` meta는 `noindex, nofollow, noarchive`) → `stats/`만 커밋 → `git pull --rebase jeongsihanip main` → `git push jeongsihanip main`.
 
 ### 아직 안 된 것
 

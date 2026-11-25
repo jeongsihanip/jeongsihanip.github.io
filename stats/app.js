@@ -37,8 +37,11 @@
     $('#updatedAt').textContent = '업데이트 ' + (data.updatedAtLabel || data.updatedAt || '—');
 
     // KPI
-    renderPendingKpi($('#kpi-visitors'), $('#kpi-visitors-sub'), s.websiteVisitors, '두 사이트 합계 · GA4 11/21~11/25');
-    renderPendingKpi($('#kpi-pageviews'), $('#kpi-pageviews-sub'), s.pageviews, '두 사이트 합계 · GA4 11/21~11/25');
+    const per = s.websitePeriodLabel ? ' · GA4 ' + s.websitePeriodLabel : '';
+    renderPendingKpi($('#kpi-visitors'), $('#kpi-visitors-sub'), s.websiteVisitors, '두 사이트 합계' + per);
+    renderPendingKpi($('#kpi-pageviews'), $('#kpi-pageviews-sub'), s.pageviews, '두 사이트 합계' + per);
+    const ga4Tag = $('#ga4Tag');
+    if (ga4Tag) ga4Tag.textContent = s.websitePeriodLabel ? 'GA4 실측 · ' + s.websitePeriodLabel : 'GA4 실측';
     $('#kpi-ytviews').textContent = fmt(s.youtubeViews) + '회';
     $('#kpi-subs').textContent = fmt(s.subscribers) + '명';
 
