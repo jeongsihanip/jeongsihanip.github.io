@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="ko" data-theme="dark">
+<html lang="ko" data-theme="light">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>경운대학교 2027 정시 모집요강 · 학과별 70% 컷 | 정시한입</title>
 <meta name="description" content="경운대학교 2027학년도 정시 모집요강 요약 — 모집군 가군·나군·다군, 정시 21명 · 2027학년도 총 1,379명 중, 2026 정시 70% 컷 중위 21.5백분위(10~45). 학과(모집단위) 19곳의 전형·모집인원·70% 컷을 한 표에 정리했고, 내 수능 백분위로 소신·적정을 바로 계산할 수 있습니다. (정시한입)" />
-<meta name="theme-color" content="#09090b" id="meta-theme" />
+<meta name="theme-color" content="#f8fafc" id="meta-theme" />
 <link rel="canonical" href="https://jeongsihanip.github.io/u/kyungwoon.html" />
 <meta name="robots" content="index,follow,max-image-preview:large" />
 <meta property="og:type" content="article" />
@@ -132,7 +132,7 @@ footer a{color:var(--muted);text-decoration:none}
       <span>정시한입<small>대학별 2027 정시모집요강</small></span>
     </a>
     <nav class="nav" aria-label="모집 시기 전환"><a class="on" href="https://jeongsihanip.github.io/">정시</a><a class="" href="https://susihanip.github.io/">수시</a><a href="https://ipsihanip.github.io/">대문</a></nav>
-    <button type="button" class="theme" id="theme-btn" aria-label="라이트/다크 테마 전환" title="라이트/다크 테마 전환">☀</button>
+    <button type="button" class="theme" id="theme-btn" aria-label="라이트/다크 테마 전환" title="라이트/다크 테마 전환">🌙</button>
   </div>
 </header>
 
@@ -195,7 +195,7 @@ footer a{color:var(--muted);text-decoration:none}
   }
   var saved = null;
   try { saved = localStorage.getItem(KEY); } catch (e) {}
-  apply(saved === "light" ? "light" : "dark");
+  apply(saved === "dark" ? "dark" : "light");
   btn.addEventListener("click", function () {
     var next = root.getAttribute("data-theme") === "light" ? "dark" : "light";
     apply(next);
