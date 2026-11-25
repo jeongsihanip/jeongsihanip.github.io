@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-24T14:35:00+09:00",
-  "updatedAtLabel": "2026-11-24 14:35 (KST)",
+  "updatedAt": "2026-11-25T19:25:00+09:00",
+  "updatedAtLabel": "2026-11-25 19:25 (KST)",
   "source": {
-    "youtube": "YouTube 공개 채널·영상 페이지 직접 확인 (실측, 2026-11-24 14:10~14:25 KST)",
-    "website": "Google Analytics 4 탐색 보고서 직접 확인 (정시한입 G-MZ5B4J0HXY · 수시한입 G-S9MYLSQM1V, 11/21~11/24, 보고 시간대 GMT+9)"
+    "youtube": "YouTube 공개 채널·영상 페이지 직접 확인 (실측, 2026-11-25 19:15~19:25 KST)",
+    "website": "Google Analytics 4 탐색 보고서 직접 확인 (정시한입 G-MZ5B4J0HXY · 수시한입 G-S9MYLSQM1V, 11/21~11/25, 보고 시간대 GMT+9)"
   },
   "summary": {
-    "websiteVisitors": 43,
-    "pageviews": 86,
-    "youtubeViews": 18662,
-    "subscribers": 5,
-    "videoCount": 16,
-    "likes": 31,
+    "websiteVisitors": 45,
+    "pageviews": 89,
+    "youtubeViews": 22216,
+    "subscribers": 7,
+    "videoCount": 22,
+    "likes": 34,
     "status": {
       "website": "live",
       "youtube": "live"
     },
-    "websiteNote": "GA4 실측 11/21~11/24(대한민국 시간) · 두 사이트 단순 합계라 같은 사람이 양쪽을 방문하면 두 번 집계됩니다. 11/24는 GA4 집계 지연(24~48시간)으로 아직 0건으로 표시됩니다.",
+    "websiteNote": "GA4 실측 11/21~11/25(대한민국 시간) · 두 사이트 단순 합계라 같은 사람이 양쪽을 방문하면 두 번 집계됩니다. 11/25는 GA4 집계 지연(24~48시간)으로 아직 0건으로 표시됩니다.",
     "youtubeNote": "공개 영상 조회수 합계 기준입니다. YouTube Studio의 채널 총 조회수와는 다를 수 있습니다.",
-    "subscribersNote": "YouTube 공개 채널에 표시되는 구독자 수입니다(정시한입 3명 · 수시한입 2명)."
+    "subscribersNote": "YouTube 공개 채널에 표시되는 구독자 수입니다(정시한입 3명 · 수시한입 4명)."
   },
   "jeongsihanip": {
     "name": "정시한입",
@@ -30,13 +30,13 @@
       "universityCount": 196,
       "status": "live",
       "statusLabel": "GA4 실측",
-      "source": "GA4 G-MZ5B4J0HXY · 11/21~11/24",
-      "visitors": 18,
-      "pageviews": 50,
-      "periodLabel": "2026-11-21 ~ 2026-11-24 (KST)",
-      "latestDate": "11-23",
-      "pendingDate": "11-24",
-      "pendingNote": "11/24 방문 기록은 GA4 집계 반영 대기 중입니다.",
+      "source": "GA4 G-MZ5B4J0HXY · 11/21~11/25",
+      "visitors": 19,
+      "pageviews": 52,
+      "periodLabel": "2026-11-21 ~ 2026-11-25 (KST)",
+      "latestDate": "11-24",
+      "pendingDate": "11-25",
+      "pendingNote": "11/25 방문 기록은 GA4 집계 반영 대기 중입니다.",
       "daily": [
         {
           "date": "11-21",
@@ -52,33 +52,38 @@
           "date": "11-23",
           "visitors": 2,
           "pageviews": 4
+        },
+        {
+          "date": "11-24",
+          "visitors": 1,
+          "pageviews": 2
         }
       ],
       "trafficSources": [
         {
           "name": "직접 방문(Direct)",
-          "users": 16,
-          "pageviews": 39,
-          "value": 89
+          "users": 17,
+          "pageviews": 41,
+          "value": 90
         },
         {
           "name": "YouTube 영상(Organic Video)",
           "users": 1,
           "pageviews": 10,
-          "value": 6
+          "value": 5
         },
         {
           "name": "SNS(Organic Social)",
           "users": 1,
           "pageviews": 1,
-          "value": 6
+          "value": 5
         }
       ],
       "topPages": [
         {
           "path": "/",
-          "users": 18,
-          "views": 50
+          "users": 19,
+          "views": 52
         }
       ],
       "topUniversities": [],
@@ -89,14 +94,47 @@
       "url": "https://www.youtube.com/@jeongsihanip",
       "subscribers": 3,
       "subscribersStatus": "public",
-      "totalViews": 10701,
-      "likes": 22,
-      "videoCount": 8,
+      "totalViews": 12615,
+      "likes": 24,
+      "videoCount": 11,
       "schedule": "매일 15:00 · 19:00 · 22:00 (하루 3편)",
-      "nextUp": "오늘 15:00 대학 편 업로드 예정 (11-24 14:00 기준 미게시)",
-      "checkedAt": "2026-11-24T14:20:00+09:00",
+      "nextUp": "오늘 22:00 대학 편 업로드 예정 (11-25 19:20 기준 미게시)",
+      "checkedAt": "2026-11-25T19:20:00+09:00",
       "viewsNote": "영상 페이지 '조회수' 실측값 기준.",
       "videos": [
+        {
+          "id": "G8OCmoTH2G4",
+          "title": "한국외대 2027 정시 총정리 | 1,277명·수능 100%·송도캠퍼스 개교",
+          "shortTitle": "한국외대",
+          "url": "https://www.youtube.com/shorts/G8OCmoTH2G4",
+          "publishedAt": "2026-11-25T18:46:25+09:00",
+          "publishedLabel": "11월 25일 18:46",
+          "durationSec": 47,
+          "views": 46,
+          "likes": 0
+        },
+        {
+          "id": "T0PAJUde6Yw",
+          "title": "경희대 2027 정시 총정리 | 2,427명·수능 100%·국제학과 가군 이동",
+          "shortTitle": "경희대",
+          "url": "https://www.youtube.com/shorts/T0PAJUde6Yw",
+          "publishedAt": "2026-11-25T14:55:18+09:00",
+          "publishedLabel": "11월 25일 14:55",
+          "durationSec": 48,
+          "views": 357,
+          "likes": 0
+        },
+        {
+          "id": "ZHU2ymHQEMs",
+          "title": "중앙대 2027 정시 총정리 | 1,718명·수능 90+출결 10·계약정원 신설",
+          "shortTitle": "중앙대",
+          "url": "https://www.youtube.com/shorts/ZHU2ymHQEMs",
+          "publishedAt": "2026-11-24T14:54:01+09:00",
+          "publishedLabel": "11월 24일 14:54",
+          "durationSec": 46,
+          "views": 1041,
+          "likes": 1
+        },
         {
           "id": "rJaG_ILOg7o",
           "title": "한양대 2027 정시 총정리 | 1,289명·수능 90+학생부종합 10",
@@ -105,7 +143,7 @@
           "publishedAt": "2026-11-23T18:50:07+09:00",
           "publishedLabel": "11월 23일 18:50",
           "durationSec": 44,
-          "views": 1381,
+          "views": 1527,
           "likes": 4
         },
         {
@@ -116,7 +154,7 @@
           "publishedAt": "2026-11-23T14:44:32+09:00",
           "publishedLabel": "11월 23일 14:44",
           "durationSec": 48,
-          "views": 1196,
+          "views": 1273,
           "likes": 2
         },
         {
@@ -126,9 +164,9 @@
           "url": "https://www.youtube.com/shorts/VkD-XGPpDlM",
           "publishedAt": "2026-11-22T21:55:55+09:00",
           "publishedLabel": "11월 22일 21:55",
-          "durationSec": 46,
-          "views": 1253,
-          "likes": 2
+          "durationSec": 47,
+          "views": 1298,
+          "likes": 3
         },
         {
           "id": "rSndw3LGEPo",
@@ -138,7 +176,7 @@
           "publishedAt": "2026-11-22T18:56:43+09:00",
           "publishedLabel": "11월 22일 18:56",
           "durationSec": 47,
-          "views": 1186,
+          "views": 1238,
           "likes": 1
         },
         {
@@ -149,7 +187,7 @@
           "publishedAt": "2026-11-22T14:55:01+09:00",
           "publishedLabel": "11월 22일 14:55",
           "durationSec": 43,
-          "views": 1249,
+          "views": 1286,
           "likes": 2
         },
         {
@@ -159,8 +197,8 @@
           "url": "https://www.youtube.com/shorts/CEXIYJlHe40",
           "publishedAt": "2026-11-21T20:48:59+09:00",
           "publishedLabel": "11월 21일 20:48",
-          "durationSec": 43,
-          "views": 1382,
+          "durationSec": 44,
+          "views": 1402,
           "likes": 3
         },
         {
@@ -171,7 +209,7 @@
           "publishedAt": "2026-11-21T18:02:53+09:00",
           "publishedLabel": "11월 21일 18:02",
           "durationSec": 48,
-          "views": 1655,
+          "views": 1718,
           "likes": 5
         },
         {
@@ -181,8 +219,8 @@
           "url": "https://www.youtube.com/shorts/OEZeBpUk8yc",
           "publishedAt": "2026-11-21T15:11:31+09:00",
           "publishedLabel": "11월 21일 15:11",
-          "durationSec": 44,
-          "views": 1399,
+          "durationSec": 45,
+          "views": 1429,
           "likes": 3
         }
       ]
@@ -198,13 +236,13 @@
       "universityCount": 196,
       "status": "live",
       "statusLabel": "GA4 실측",
-      "source": "GA4 G-S9MYLSQM1V · 11/21~11/24",
-      "visitors": 25,
-      "pageviews": 36,
-      "periodLabel": "2026-11-21 ~ 2026-11-24 (KST)",
-      "latestDate": "11-23",
-      "pendingDate": "11-24",
-      "pendingNote": "11/24 방문 기록은 GA4 집계 반영 대기 중입니다.",
+      "source": "GA4 G-S9MYLSQM1V · 11/21~11/25",
+      "visitors": 26,
+      "pageviews": 37,
+      "periodLabel": "2026-11-21 ~ 2026-11-25 (KST)",
+      "latestDate": "11-24",
+      "pendingDate": "11-25",
+      "pendingNote": "11/25 방문 기록은 GA4 집계 반영 대기 중입니다.",
       "daily": [
         {
           "date": "11-21",
@@ -220,13 +258,18 @@
           "date": "11-23",
           "visitors": 2,
           "pageviews": 2
+        },
+        {
+          "date": "11-24",
+          "visitors": 1,
+          "pageviews": 1
         }
       ],
       "trafficSources": [
         {
           "name": "직접 방문(Direct)",
-          "users": 23,
-          "pageviews": 33,
+          "users": 24,
+          "pageviews": 34,
           "value": 92
         },
         {
@@ -245,8 +288,8 @@
       "topPages": [
         {
           "path": "/",
-          "users": 25,
-          "views": 36
+          "users": 26,
+          "views": 37
         }
       ],
       "topUniversities": [],
@@ -255,16 +298,49 @@
     "youtube": {
       "channelId": "UCDD9Zzgw2vDG22iQMIWk3_w",
       "url": "https://www.youtube.com/@susihanip",
-      "subscribers": 2,
+      "subscribers": 4,
       "subscribersStatus": "public",
-      "totalViews": 7961,
-      "likes": 9,
-      "videoCount": 8,
+      "totalViews": 9601,
+      "likes": 10,
+      "videoCount": 11,
       "schedule": "매일 15:00 · 19:00 · 22:00 (하루 3편)",
-      "nextUp": "오늘 15:00 대학 편 업로드 예정 (11-24 14:00 기준 미게시)",
-      "checkedAt": "2026-11-24T14:20:00+09:00",
+      "nextUp": "오늘 22:00 대학 편 업로드 예정 (11-25 19:20 기준 미게시)",
+      "checkedAt": "2026-11-25T19:20:00+09:00",
       "viewsNote": "영상 페이지 '조회수' 실측값 기준.",
       "videos": [
+        {
+          "id": "C8MM9eq0g8s",
+          "title": "경희대 2027 수시 총정리 | 3,006명·특성화고 263명 교과 이동·논술 2합 5 46초",
+          "shortTitle": "경희대",
+          "url": "https://www.youtube.com/shorts/C8MM9eq0g8s",
+          "publishedAt": "2026-11-25T18:49:29+09:00",
+          "publishedLabel": "11월 25일 18:49",
+          "durationSec": 46,
+          "views": 47,
+          "likes": 0
+        },
+        {
+          "id": "T7tj53VuwWc",
+          "title": "중앙대 2027 수시 총정리 | 2,862명·논술 창의형 신설·성장형인재 108명 47초",
+          "shortTitle": "중앙대",
+          "url": "https://www.youtube.com/shorts/T7tj53VuwWc",
+          "publishedAt": "2026-11-25T14:58:26+09:00",
+          "publishedLabel": "11월 25일 14:58",
+          "durationSec": 48,
+          "views": 174,
+          "likes": 0
+        },
+        {
+          "id": "mSHLXTlS7Vo",
+          "title": "한양대 2027 수시 총정리 | 1,921명·의예과 면접형 신설·논술 100% 48초",
+          "shortTitle": "한양대",
+          "url": "https://www.youtube.com/shorts/mSHLXTlS7Vo",
+          "publishedAt": "2026-11-24T14:48:06+09:00",
+          "publishedLabel": "11월 24일 14:48",
+          "durationSec": 48,
+          "views": 729,
+          "likes": 1
+        },
         {
           "id": "SXTSdrCexI8",
           "title": "성균관대 2027 수시 총정리 | 2,378명·융합인재 최저 신설·논술 376명 46초",
@@ -272,8 +348,8 @@
           "url": "https://www.youtube.com/shorts/SXTSdrCexI8",
           "publishedAt": "2026-11-23T19:01:10+09:00",
           "publishedLabel": "11월 23일 19:01",
-          "durationSec": 46,
-          "views": 810,
+          "durationSec": 47,
+          "views": 1224,
           "likes": 0
         },
         {
@@ -284,7 +360,7 @@
           "publishedAt": "2026-11-23T14:50:21+09:00",
           "publishedLabel": "11월 23일 14:50",
           "durationSec": 48,
-          "views": 1068,
+          "views": 1164,
           "likes": 3
         },
         {
@@ -294,8 +370,8 @@
           "url": "https://www.youtube.com/shorts/1xWdTQvFZVM",
           "publishedAt": "2026-11-22T21:49:51+09:00",
           "publishedLabel": "11월 22일 21:49",
-          "durationSec": 46,
-          "views": 464,
+          "durationSec": 47,
+          "views": 480,
           "likes": 0
         },
         {
@@ -305,8 +381,8 @@
           "url": "https://www.youtube.com/shorts/kwrdgImuvig",
           "publishedAt": "2026-11-22T18:48:28+09:00",
           "publishedLabel": "11월 22일 18:48",
-          "durationSec": 46,
-          "views": 1140,
+          "durationSec": 47,
+          "views": 1199,
           "likes": 1
         },
         {
@@ -316,8 +392,8 @@
           "url": "https://www.youtube.com/shorts/WOsYa0GiZWQ",
           "publishedAt": "2026-11-22T14:47:21+09:00",
           "publishedLabel": "11월 22일 14:47",
-          "durationSec": 46,
-          "views": 1343,
+          "durationSec": 47,
+          "views": 1386,
           "likes": 2
         },
         {
@@ -327,8 +403,8 @@
           "url": "https://www.youtube.com/shorts/LZwnWhUBcp0",
           "publishedAt": "2026-11-21T21:07:39+09:00",
           "publishedLabel": "11월 21일 21:07",
-          "durationSec": 44,
-          "views": 547,
+          "durationSec": 45,
+          "views": 569,
           "likes": 1
         },
         {
@@ -338,8 +414,8 @@
           "url": "https://www.youtube.com/shorts/4fSGGB82UaI",
           "publishedAt": "2026-11-21T20:16:36+09:00",
           "publishedLabel": "11월 21일 20:16",
-          "durationSec": 44,
-          "views": 1307,
+          "durationSec": 45,
+          "views": 1320,
           "likes": 0
         },
         {
@@ -349,8 +425,8 @@
           "url": "https://www.youtube.com/shorts/P_ImIXkuP4E",
           "publishedAt": "2026-11-21T20:05:50+09:00",
           "publishedLabel": "11월 21일 20:05",
-          "durationSec": 45,
-          "views": 1282,
+          "durationSec": 47,
+          "views": 1309,
           "likes": 2
         }
       ]
