@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "channel": {
   "name": "정시한입",
   "handle": "@jeongsihanip",
@@ -205,12 +205,12 @@
     "가군",
     "나군"
    ],
-   "quota": "정원 내 785명 (가 154+실기 65 · 나 544+실기 22)",
+   "quota": "정원 내 785명 = 가군 219(수능 154·실기 65) + 나군 566(수능 544·실기 22) · 정원 외 102 포함 정시 887명",
    "schedule": "2027. 1. 4.(월) 10:00 ~ 1. 6.(수) 18:00",
-   "summary": "수능 100% | 인문계열Ⅰ·Ⅱ·자연 반영비율 구분 | 인공지능학과·도시행정학과 가군",
-   "noticeUrl": "https://admission.uos.ac.kr/admissionNew/main.do",
-   "pdfUrl": "",
-   "shortsUrl": "",
+   "summary": "수능 100%(총점 1,000) | 인문Ⅰ 국·수 35·영·탐 15 / 인문Ⅱ 수 25·영·탐 20 / 자연 수 40·탐 20 | 2027 다군 폐지·자연계열 반영비율 단일화",
+   "noticeUrl": "https://admission.uos.ac.kr/admissionNew/html/jungsi/info.do?menuid=2002002001000000000",
+   "pdfUrl": "https://file.uos.ac.kr/upload/admission/2027%ED%95%99%EB%85%84%EB%8F%84%20%EC%A0%95%EC%8B%9C%EB%AA%A8%EC%A7%91%20%EC%8B%A0%EC%9E%85%EC%83%9D%20%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+   "shortsUrl": "https://youtube.com/shorts/3pHg7OyFk3A",
    "region": "서울"
   },
   {
