@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "channel": {
   "name": "정시한입",
   "handle": "@jeongsihanip",
@@ -239,12 +239,12 @@
     "나군",
     "다군"
    ],
-   "quota": "정원 내 1,166명 (가 439 · 나 418 · 다 309)",
+   "quota": "정원 내 1,166명 (가 439 · 나 418 · 다 309) · 정원 외 163명 포함 1,329명",
    "schedule": "2027. 1. 5.(화) 10:00 ~ 1. 7.(목) 17:00",
-   "summary": "수능 100% | 다군은 수능 90+학생부 10 | 다군 사범대·무전공(열린전공) 신설",
-   "noticeUrl": "https://ipsi.dongguk.edu/",
+   "summary": "수능 100%(가·나) | 다군 수능 90+학생부평가 10 | 다군 309명 = 무전공 242 · 사범대 67 | 인문 국35·수25·영15·탐25 / 자연 수35·탐25",
+   "noticeUrl": "https://ipsi.dongguk.edu/admission/html/regular/guide.asp",
    "pdfUrl": "https://ipsi.dongguk.edu/upload/file/202609141951066QP8V2.PDF",
-   "shortsUrl": "",
+   "shortsUrl": "https://youtube.com/shorts/p43zabgaBx8",
    "region": "서울"
   },
   {
