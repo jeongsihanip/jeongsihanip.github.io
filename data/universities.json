@@ -255,12 +255,12 @@
     "나군",
     "다군"
    ],
-   "quota": "정원 내 850명 (나 80 미술 · 다 770 인문·자연·자율전공)",
+   "quota": "수능우수자 정원 내 850명 = 나군 미술 80 + 다군 770 (서울캠퍼스 정시 924명, 수시 이월 전)",
    "schedule": "2027. 1. 4.(월) 10:00 ~ 1. 7.(목) 18:00",
-   "summary": "다군 수능 100% | 나군 미술 수능 60+서류 40 | 가군 선발 없음",
-   "noticeUrl": "https://www.hongik.ac.kr/kr/admission/recruitment-regular.do?article.offset=0&mode=list",
-   "pdfUrl": "https://www.hongik.ac.kr/kr/admission/recruitment-regular.do?mode=download&articleNo=155914&attachNo=91137",
-   "shortsUrl": "",
+   "summary": "다군 수능 100% | 나군 미술은 1단계 수능 100%(3배수) → 2단계 60+서류 40 | 수능최저 미적용 | 자연 수학(미적·기하)·과탐 3% 가산",
+   "noticeUrl": "https://www.hongik.ac.kr/kr/admission/recruitment-regular.do?mode=view&articleNo=155914",
+   "pdfUrl": "https://www.hongik.ac.kr/kr/admission/recruitment-regular.do?mode=download&articleNo=155914&attachNo=94256",
+   "shortsUrl": "https://youtube.com/shorts/gw0V0EQQMHg",
    "region": "서울"
   },
   {
