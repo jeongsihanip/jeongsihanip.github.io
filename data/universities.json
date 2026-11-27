@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "channel": {
   "name": "정시한입",
   "handle": "@jeongsihanip",
@@ -305,12 +305,12 @@
     "나군",
     "다군"
    ],
-   "quota": "정원 내 1,229명 (수능 일반 1,168 · 실기 61)",
-   "schedule": "2027. 1. 4.(월) 10:00 ~ 1. 7.(목) 18:00",
-   "summary": "수능 100% | 자유전공학부 인문 165·자연 192 | 실기 문예·스포츠 수능30+실기70",
+   "quota": "정시 1,420명 — 정원 내 1,221명(수능 1,160 · 실기 61) + 정원 외 199 · 가 507 · 나 337 · 다 532 · 재직자 44",
+   "schedule": "2027. 1. 4.(월) 10:00 ~ 1. 7.(목) 18:00 (서류 1. 8. 17:00)",
+   "summary": "수능 100%·수능최저 미적용 | 인문 국어 35 · 경상·자연 수학 35 | 한국사 가산→감점, 탐구 가산 6% | 2027 지능전자공학부 신설(나군 104명)",
    "noticeUrl": "https://admission.ssu.ac.kr/mojip/req.asp?flag=2&page_no=1_3_2",
-   "pdfUrl": "",
-   "shortsUrl": "",
+   "pdfUrl": "https://admission.ssu.ac.kr/upload/SSU(1)_261012134914.pdf",
+   "shortsUrl": "https://youtube.com/shorts/3lQnP53OZn4",
    "region": "서울"
   },
   {
