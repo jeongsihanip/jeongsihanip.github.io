@@ -334,18 +334,18 @@
   {
    "id": "dankook",
    "name": "단국대학교",
-   "campus": "죽전캠퍼스",
+   "campus": "죽전·천안캠퍼스",
    "group": [
     "가군",
     "나군",
     "다군"
    ],
-   "quota": "정원 내 797명 (가 220 · 나 280 · 다 297)",
+   "quota": "정원 내 1,777명 (죽전 866 · 천안 911) · 수능위주 1,560 · 실기 217 (수시 이월 전)",
    "schedule": "2027. 1. 4.(월) 10:00 ~ 1. 6.(수) 18:00",
-   "summary": "수능 100% (체육교육과 수능 70+실기 30) | 공학 수학 35·탐구 25 | 죽전캠퍼스 기준",
+   "summary": "수능 100%(1,000점)·수능최저 미적용 | 죽전 인문 국어 35·공과 수학 35 | 천안 인문 35·20·20·25 / 자연 20·35·20·25 | 2027 AI건축융합학과 신설(정시 다군 8명)·의예과 다군 16명",
    "noticeUrl": "https://ipsi.dankook.ac.kr/jukjeon/notice/list.html?bbsid=juk_info&bltn_seq=51567&camp_type=&ctg_cd=&keyword=&mode=view&page=1&skey=",
    "pdfUrl": "https://ipsi.dankook.ac.kr/bbs/filedown.php?bbsid=juk_info&file_seq=6904",
-   "shortsUrl": "",
+   "shortsUrl": "https://youtube.com/shorts/ABt84F1C2K4",
    "region": "수도권"
   },
   {
