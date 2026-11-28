@@ -356,13 +356,14 @@
     "나군",
     "다군"
    ],
-   "quota": "정원 내 616명 (나 131 · 다 485)",
-   "schedule": "2027. 1. 4.(월) 09:00 ~ 1. 7.(목) 18:00",
-   "summary": "수능 100% | 의학과 수능 95+면접 5 | 첨단학과 개편(AI컴퓨터·첨단에코에너지)",
-   "noticeUrl": "https://www.iajou.ac.kr/mojib/?m_type=JEONGSI",
-   "pdfUrl": "",
-   "shortsUrl": "",
-   "region": "수도권"
+   "quota": "정원 내 616명 (나 131 · 다 485) · 정원 외 118 포함 정시 734명 (수시 이월 전)",
+   "schedule": "2027. 1. 4.(월) 09:00 ~ 1. 7.(목) 18:00 · 서류 1. 12.(화) 18:00",
+   "summary": "수능 100%·수능최저 미적용 | 자연1 국20·수35·탐30 / 인문2 국35·수25 | 2027 첨단학과 개편(첨단스마트산업·첨단에코에너지·AI컴퓨터)",
+   "noticeUrl": "https://www.iajou.ac.kr/notice/view.php?bn=78759&m_type=JEONGSI",
+   "pdfUrl": "https://www.iajou.ac.kr/_common/new_download_file.php?menu=boardfile&file_no=4631",
+   "shortsUrl": "https://youtube.com/shorts/zwCQ75CIdyI",
+   "region": "수도권",
+   "updated": "2026-11-28"
   },
   {
    "id": "inha",
